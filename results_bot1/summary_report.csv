@@ -1,0 +1,501 @@
+school_name,status,url_found,tables_saved,reason
+Lone Star College System,Partial Success,https://www.lonestar.edu/scholarships.htm,0,"URL scraped, but no suitable tables found."
+Brigham Young University-Idaho,Failure,https://www.byui.edu/financial-aid/merit-scholarship,0,Could not scrape any tables from the URL.
+Dallas College,Success,https://dallascollege.academicworks.com/,1,Saved 1 valid tables.
+Valencia College,Failure,https://valenciacollege.edu/finaid/programs/scholarships/index.php,0,Could not scrape any tables from the URL.
+Miami Dade College,Failure,https://www.mdc.edu/financialaid/scholarships/,0,Could not scrape any tables from the URL.
+College of Southern Nevada,Failure,https://www.csn.edu/scholarships,0,Could not scrape any tables from the URL.
+Austin Community College District,Failure,https://students.austincc.edu/scholarships/,0,Could not scrape any tables from the URL.
+Collin County Community College District,Failure,https://www.collin.edu/foundation/students/index.html,0,Could not scrape any tables from the URL.
+Broward College,Partial Success,https://www.broward.edu/admissions/financial-aid/scholarships/,0,"URL scraped, but no suitable tables found."
+San Jacinto Community College,Failure,https://www.sanjac.edu/admissions/paying-for-college/grants-scholarships/scholarships/index.php,0,Could not scrape any tables from the URL.
+Santa Ana College,Failure,http://sac.edu/StudentServices/Counseling/TeacherEd/Pages/Financial-Aid-Scholarships.aspx,0,Could not scrape any tables from the URL.
+Santa Monica College,Failure,https://www.smc.edu/admission-aid/financial-aid-scholarships/types-of-aid/scholarships/,0,Could not scrape any tables from the URL.
+Palm Beach State College,Success,https://www.pbsc.edu/financial-aid/scholarships.php,1,Saved 1 valid tables.
+St Petersburg College,Failure,https://www.spcollege.edu/financial-aid/types-of-financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Florida State College at Jacksonville,Failure,https://www.fscj.edu/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Bakersfield College,Failure,https://www.bakersfieldcollege.edu/enrollment-aid/scholarships/index.html,0,Could not scrape any tables from the URL.
+South Texas College,Success,https://studentservices.southtexascollege.edu/finaid/scholarships/,1,Saved 1 valid tables.
+San Antonio College,Success,https://www.alamo.edu/foundation/scholarships/,1,Saved 1 valid tables.
+San Diego Mesa College,Success,https://www.sdmesa.edu/scholarships/,2,Saved 2 valid tables.
+Rio Hondo College,Success,https://www.riohondo.edu/financial-aid/types/scholarships/,1,Saved 1 valid tables.
+Modesto Junior College,Failure,https://www.mjc.edu/foundation/scholarships.html,0,Could not scrape any tables from the URL.
+CUNY New York City College of Technology,Success,https://www.citytech.cuny.edu/scholarships/scholarships.aspx,1,Saved 1 valid tables.
+Sinclair Community College,Failure,https://www.sinclair.edu/services/welcome/finaid/financial-aid-types-and-sources/scholarships-application-information/,0,Could not scrape any tables from the URL.
+Cypress College,Failure,https://www.cypresscollege.edu/financial-aid/financial-aid-scholarships/,0,Could not scrape any tables from the URL.
+Seminole State College of Florida,Failure,https://www.seminolestate.edu/foundation/scholarships,0,Could not scrape any tables from the URL.
+Indian River State College,Failure,https://irsc.edu/news/indian-river-state-college-foundation-opens-3-million-scholarship-opportunity-for-2026-2027-academic-year/,0,Could not scrape any tables from the URL.
+Georgia Gwinnett College,Failure,https://www.ggc.edu/admission-aid/financial-aid/scholarships-and-grants,0,Could not scrape any tables from the URL.
+Santa Fe College,Failure,https://www.sfcollege.edu/fa/scholarships/college-scholarships.html,0,Could not scrape any tables from the URL.
+Front Range Community College,Failure,https://www.frontrange.edu/admissions-aid/paying-for-college/scholarships/index.html,0,Could not scrape any tables from the URL.
+Delaware Technical Community College-Terry,Failure,https://www.dtcc.edu/admissions-financial-aid/financial-aid-scholarships/types-aid/scholarships/,0,Could not scrape any tables from the URL.
+Foothill College,Failure,https://foothill.edu/financialaid/programs/scholarships.html,0,Could not scrape any tables from the URL.
+Antelope Valley Community College District,Partial Success,http://www.avc.edu/financial-aid-scholarships/types-financial-aid/scholarships,0,"URL scraped, but no suitable tables found."
+Florida SouthWestern State College,Failure,https://www.fsw.edu/financialaid/scholarships,0,Could not scrape any tables from the URL.
+MiraCosta College,Failure,https://www.miracosta.edu/student-services/financial-aid/types-of-aid/scholarships/mcc-scholarships.html,0,Could not scrape any tables from the URL.
+Tallahassee State College,Success,https://www.tsc.fl.edu/admissions/financial-aid/scholarships/,10,Saved 10 valid tables.
+Eastern Florida State College,Success,https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php,2,Saved 2 valid tables.
+Daytona State College,Failure,https://www.daytonastate.edu/scholarships/index.html,0,Could not scrape any tables from the URL.
+Pikes Peak State College,Failure,https://www.pikespeak.edu/costs-scholarships-aid/scholarships/index.php,0,Could not scrape any tables from the URL.
+Tyler Junior College,Failure,https://tjc.edu/scholarships/,0,Could not scrape any tables from the URL.
+Del Mar College,Failure,https://www.delmar.edu/foundation/scholarships/,0,Could not scrape any tables from the URL.
+Henry Ford College,Failure,https://www.hfcc.edu/payment/scholarships,0,Could not scrape any tables from the URL.
+Greenville Technical College,Failure,https://www.gvltec.edu/admissions_aid/financial_aid/scholarships/index.html,0,Could not scrape any tables from the URL.
+Bryant & Stratton College-Online,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Solano Community College,Failure,https://solano.edu/financial-aid/available-programs/scholarships.php,0,Could not scrape any tables from the URL.
+West Los Angeles College,Failure,https://www.wlac.edu/about/foundation/scholarships,0,Could not scrape any tables from the URL.
+State College of Florida-Manatee-Sarasota,Success,https://www.scf.edu/paying-for-college/financial-aid/scholarships/,1,Saved 1 valid tables.
+Skyline College,Success,https://www.skylinecollege.edu/financialaid/scholarships.php,1,Saved 1 valid tables.
+Pasco-Hernando State College,Failure,https://financial-aid.phsc.edu/resources/faq/top-10-academic-merit-scholarship-enrollment-requirement,0,Could not scrape any tables from the URL.
+Bellevue College,Failure,https://www.bellevuecollege.edu/foundation/scholarships/,0,Could not scrape any tables from the URL.
+Truckee Meadows Community College,Failure,https://www.tmcc.edu/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Pensacola State College,Partial Success,https://financialaid.pensacolastate.edu/scholarships/,0,"URL scraped, but no suitable tables found."
+Schoolcraft Community College District,Failure,https://www.schoolcraft.edu/aid/types-of-aid/scholarships/,0,Could not scrape any tables from the URL.
+Ensign College,Failure,https://www.ensign.edu/scholarships/academic-merit-scholarship,0,Could not scrape any tables from the URL.
+Polk State College,Failure,https://www.polk.edu/news/apply-now-for-a-polk-state-merit-scholarship/,0,Could not scrape any tables from the URL.
+Los Angeles Film School,Failure,https://www.lafilm.edu/admissions/scholarships-and-grants/,0,Could not scrape any tables from the URL.
+Shasta College,Success,https://www.shastacollege.edu/cost-financial-aid/types-of-financial-aid/scholarships/,1,Saved 1 valid tables.
+Lorain County Community College,Failure,https://www.lorainccc.edu/paying-for-college/scholarship-programs/,0,Could not scrape any tables from the URL.
+Arapahoe Community College,Failure,https://www.arapahoe.edu/admissions/paying-college/scholarships,0,Could not scrape any tables from the URL.
+Cincinnati State Technical and Community College,Failure,https://www.cincinnatistate.edu/financial-aid-types/scholarships/,0,Could not scrape any tables from the URL.
+Community College of Denver,Failure,https://www.ccd.edu/financial-aid-scholarships,0,Could not scrape any tables from the URL.
+Laredo College,Failure,https://catalog.laredo.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Midland College,Failure,https://www.midland.edu/enrollment-aid/paying-college/scholarships/general.php,0,Could not scrape any tables from the URL.
+Trinity Valley Community College,Failure,https://catalog.tvcc.edu/studentresources/payingforcollege/scholarships,0,Could not scrape any tables from the URL.
+College of Central Florida,Failure,https://helpschooling.com/ucf-scholarships-program-2026-2027-complete-gu/,0,Could not scrape any tables from the URL.
+Unitek College,Failure,https://www.campusreel.org/scholarships/by-colleges/unitek-college,0,Could not scrape any tables from the URL.
+Clark College,Failure,https://www.clark.edu/enroll/paying-for-college/scholarships/,0,Could not scrape any tables from the URL.
+University of Florida-Online,Failure,https://admissions.ufl.edu/cost-and-aid/scholarships,0,Could not scrape any tables from the URL.
+Green River College,Failure,https://www.greenrivercollegefoundation.org/applynow,0,Could not scrape any tables from the URL.
+Pierce College District,Failure,https://www.pierce.ctc.edu/pay-college/scholarships-grants/foundation.html,0,Could not scrape any tables from the URL.
+United States Naval Academy,Failure,"https://www.usna.edu/PermitToReport/_files/documents/2025/V.1.B._Scholarship_Money,_and_Personal_Charitable_Donations.pdf",0,Could not scrape any tables from the URL.
+Georgia Highlands College,Partial Success,https://sites.highlands.edu/financial-aid/scholarships/,0,"URL scraped, but no suitable tables found."
+United States Military Academy,Failure,https://www.westpoint.edu/academics/scholars-program,0,Could not scrape any tables from the URL.
+Dalton State College,Failure,https://www.daltonstate.edu/admissions/financial-aid/scholarships/dalton-state-foundation-scholarships/,0,Could not scrape any tables from the URL.
+Louisiana State University-Alexandria,Success,https://www.lsua.edu/admissions/scholarships/,1,Saved 1 valid tables.
+Tacoma Community College,Failure,https://www.tacomacc.edu/about/foundation/foundation-scholarships,0,Could not scrape any tables from the URL.
+Columbia Basin College,Failure,https://www.columbiabasin.edu/connect/foundation/foundation-scholarships/index.html,0,Could not scrape any tables from the URL.
+Odessa College,Success,https://www.odessa.edu/enrollment-aid/financial-aid/scholarships.html,2,Saved 2 valid tables.
+United States Air Force Academy,Failure,https://afas.org/afas-merit-scholarship/,0,Could not scrape any tables from the URL.
+Spokane Community College,Failure,https://ccsfoundation.org/Students/How-to-Apply,0,Could not scrape any tables from the URL.
+University of Cincinnati-Blue Ash College,Failure,https://www.ucblueash.edu/admissions/financial/achievement.html,0,Could not scrape any tables from the URL.
+Weatherford College,Failure,https://wc.edu/paying-for-weatherford/scholarship-opportunities/index.php,0,Could not scrape any tables from the URL.
+Georgia Military College,Failure,https://www.gmc.edu/scholarships/,0,Could not scrape any tables from the URL.
+Saint Johns River State College,Partial Success,https://www.sjrstate.edu/scholarships,0,"URL scraped, but no suitable tables found."
+Seattle Central College,Failure,https://seattlecentral.edu/scholarships,0,Could not scrape any tables from the URL.
+The College of Health Care Professions-Northwest,Failure,https://www.chcp.edu/tuition-financial-aid/financial-aid/scholarships-grants/,0,Could not scrape any tables from the URL.
+Vincennes University,Failure,https://www.vinu.edu/financial-services/scholarships.html,0,Could not scrape any tables from the URL.
+Spelman College,Failure,https://www.spelman.edu/_1_Docs-and-Files/admissions/fall-2026-next-steps-enrollment-guide.pdf,0,Could not scrape any tables from the URL.
+Gulf Coast State College,Failure,https://www.gulfcoast.edu/tuition-aid/financial-aid/grants-and-scholarships/index.html,0,Could not scrape any tables from the URL.
+Lake-Sumter State College,Failure,https://www.lssc.edu/dept/foundation/scholarships/,0,Could not scrape any tables from the URL.
+Jackson College,Failure,https://www.jccmi.edu/cost-aid/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Snow College,Failure,https://catalog.snow.edu/financial-aid-scholarships/scholarships/,0,Could not scrape any tables from the URL.
+SUNY College of Technology at Alfred,Success,https://www.alfredstate.edu/cost-aid/scholarships/asc-merit-scholarships,2,Saved 2 valid tables.
+Highline College,Success,https://www.highline.edu/fund-your-education/financialaid/types/scholarships.html,1,Saved 1 valid tables.
+College of Southern Idaho,Failure,https://www.csi.edu/financial-aid/scholarships/csi-scholarships.aspx,0,Could not scrape any tables from the URL.
+Oklahoma State University-Oklahoma City,Failure,https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/freshman-scholarships/,0,Could not scrape any tables from the URL.
+CUNY Medgar Evers College,Failure,https://www.mec.cuny.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Edmonds College,Failure,https://www.edmonds.edu/about-edmonds/foundation/scholarships/,0,Could not scrape any tables from the URL.
+College of the Mainland,Failure,https://www.com.edu/paying-for-college/scholarships.html,0,Could not scrape any tables from the URL.
+Pueblo Community College,Failure,https://pueblocc.edu/scholarships,0,Could not scrape any tables from the URL.
+Hope College,Success,https://hope.edu/admissions/scholarships.html,1,Saved 1 valid tables.
+Olympic College,Failure,http://www.olympic.edu/fund-your-education/scholarships,0,Could not scrape any tables from the URL.
+Barnard College,Success,https://barnard.edu/finaid/general-policies,1,Saved 1 valid tables.
+Abraham Baldwin Agricultural College,Failure,https://www.abac.edu/admissions/abac-scholarships.html,0,Could not scrape any tables from the URL.
+Galen College of Nursing-San Antonio,Failure,https://galencollege.edu/get-started/paying-for-college/scholarships,0,Could not scrape any tables from the URL.
+Northwest Florida State College,Failure,https://www.nwfsc.edu/scholarships/,0,Could not scrape any tables from the URL.
+Clark State College,Failure,https://www.clarkstate.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Abington,Failure,https://www.abington.psu.edu/tuition-financial-aid/merit-scholarships-first-year-students,0,Could not scrape any tables from the URL.
+St Olaf College,Failure,https://wp.stolaf.edu/financialaid/merit-scholarships/,0,Could not scrape any tables from the URL.
+Rasmussen University-Florida,Failure,https://guides.rasmussen.edu/borrowing,0,Could not scrape any tables from the URL.
+College of the Holy Cross,Failure,https://www.holycross.edu/admissions-aid/tuition-financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+University of Puerto Rico-Bayamon,Failure,https://faci.uprrp.edu/wp-content/uploads/2026/01/SELF-STUDY-ACEJMC-2025-University-of-Puerto-Rico-Rio-Piedras.pdf,0,Could not scrape any tables from the URL.
+Grayson College,Partial Success,https://www.grayson.edu/scholarships/index.html,0,"URL scraped, but no suitable tables found."
+Spokane Falls Community College,Failure,https://ccsfoundation.org/Students/How-to-Apply,0,Could not scrape any tables from the URL.
+Gurnick Academy of Medical Arts,Failure,https://www.gurnick.edu/scholarships-to-go-back-to-school-part-one/,0,Could not scrape any tables from the URL.
+Brazosport College,Partial Success,https://www.brazosport.edu/scholarships/,0,"URL scraped, but no suitable tables found."
+Colorado Mountain College,Failure,https://coloradomtn.edu/scholarships/,0,Could not scrape any tables from the URL.
+Brigham Young University-Hawaii,Failure,https://financialaid.byuh.edu/scholarships,0,Could not scrape any tables from the URL.
+College of Coastal Georgia,Failure,https://www.ccga.edu/admissions/financialaid/scholarships/,0,Could not scrape any tables from the URL.
+North Seattle College,Failure,https://northseattle.edu/scholarships,0,Could not scrape any tables from the URL.
+University of North Carolina Asheville,Failure,https://www.unca.edu/admission/financial-aid/types-of-aid/scholarships/,0,Could not scrape any tables from the URL.
+University of Puerto Rico-Arecibo,Failure,https://faci.uprrp.edu/wp-content/uploads/2026/01/SELF-STUDY-ACEJMC-2025-University-of-Puerto-Rico-Rio-Piedras.pdf,0,Could not scrape any tables from the URL.
+SUNY College of Technology at Canton,Failure,https://www.canton.edu/admissions/scholarships.html,0,Could not scrape any tables from the URL.
+Skidmore College,Failure,https://www.skidmore.edu/precollege/tuition.php,0,Could not scrape any tables from the URL.
+Lafayette College,Failure,https://admissions.lafayette.edu/scholarships/,0,Could not scrape any tables from the URL.
+Morehouse College,Failure,https://morehouse.edu/aid/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Uta Mesivta of Kiryas Joel,Failure,http://utamesivta.org/Docs/Catalog.pdf,0,Could not scrape any tables from the URL.
+West Coast University-Los Angeles,Failure,https://westcoastuniversity.edu/tuition-financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+Northwestern Michigan College,Failure,https://www.nmc.edu/financial-aid/scholarships.html,0,Could not scrape any tables from the URL.
+West Coast University-Ontario,Failure,https://westcoastuniversity.edu/tuition-financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+Bismarck State College,Failure,https://bismarckstate.edu/admissions/payingforcollege/scholarships/,0,Could not scrape any tables from the URL.
+Kent State University at Stark,Failure,https://www.kent.edu/stark/first-year-scholarships,0,Could not scrape any tables from the URL.
+University of Cincinnati-Clermont College,Failure,https://www.ucclermont.edu/admissions/financial-aid/scholarships/merit-scholarship.html,0,Could not scrape any tables from the URL.
+Gordon State College,Partial Success,https://www.gordonstate.edu/alumni/give-to-gordon/gordon-college-foundation/fnd-scholarships/index.html,0,"URL scraped, but no suitable tables found."
+Skagit Valley College,Partial Success,https://www.skagit.edu/campus-life/scholarships.html,0,"URL scraped, but no suitable tables found."
+Laramie County Community College,Failure,https://www.lccc.wy.edu/highschool/gearup/scholarships.aspx,0,Could not scrape any tables from the URL.
+University of Puerto Rico-Humacao,Failure,https://www.uprh.edu/wp-content/uploads/sites/6/2025/01/20242025Catalog.pdf,0,Could not scrape any tables from the URL.
+Yakima Valley College,Failure,https://yvcc.edu/news/academic-year/2025-2026/foundation-scholarship-applications-2026-27.php,0,Could not scrape any tables from the URL.
+University of Hawaii-West Oahu,Failure,https://westoahu.hawaii.edu/financial-aid/grants-and-scholarships/,0,Could not scrape any tables from the URL.
+Indiana Institute of Technology-College of Professional Studies,Success,https://financialservices.indianatech.edu/scholarships/undergrad/,1,Saved 1 valid tables.
+Vassar College,Failure,https://offices.vassar.edu/student-financial-services/types-of-aid/grants-scholarships/,0,Could not scrape any tables from the URL.
+Clover Park Technical College,Success,https://www.cptc.edu/foundation/cptc-foundation-scholarships,2,Saved 2 valid tables.
+Chamberlain University-Texas,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Altoona,Failure,https://altoona.psu.edu/tuition-financial-aid/scholarships-awards/penn-state-altoona-scholarships,0,Could not scrape any tables from the URL.
+Denison University,Success,https://denison.edu/campus/finances/types-of-scholarships-aid,1,Saved 1 valid tables.
+Walla Walla Community College,Failure,https://www.wwcc.edu/paying-for-college/scholarships/,0,Could not scrape any tables from the URL.
+University of Puerto Rico-Carolina,Failure,https://academicos.uprrp.edu/wp-content/uploads/2025/03/Middle-State-Commission-Self-study-report-UPRRP-FEB24-2025-2-1.pdf,0,Could not scrape any tables from the URL.
+Wellesley College,Failure,https://theswellesleyreport.com/2026/01/scholarship-deadlines-for-wellesley-students-coming-up/,0,Could not scrape any tables from the URL.
+Ohio State University-Newark Campus,Failure,https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships,0,Could not scrape any tables from the URL.
+Colby College,Failure,https://afa.colby.edu/apply/applying-for-aid/,0,Could not scrape any tables from the URL.
+Whatcom Community College,Failure,https://www.whatcom.edu/about-wcc/foundation/about-us/what-we-do/scholarships,0,Could not scrape any tables from the URL.
+Charter College,Failure,https://www.campusreel.org/scholarships/by-colleges/charter-college,0,Could not scrape any tables from the URL.
+University of Puerto Rico at Ponce,Failure,https://scholarshipsandgrants.us/list/others/puerto-rico/,0,Could not scrape any tables from the URL.
+San Joaquin Valley College-Visalia,Failure,https://www.sjvc.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Florida Gateway College,Failure,https://www.facebook.com/FloridaGatewayCollege/posts/-the-2026-board-of-trustees-scholarship-application-is-now-openare-you-a-high-sc/1396616165802412/,0,Could not scrape any tables from the URL.
+Smith Chason College,Success,https://smithchason.edu/admissions/,3,Saved 3 valid tables.
+University of Puerto Rico at Cayey,Success,https://www.fastweb.com/directory/college/university-of-puerto-rico-cayey-scholarships,1,Saved 1 valid tables.
+Lake Washington Institute of Technology,Failure,https://www.lwtech.edu/foundation/scholarships/index.aspx,0,Could not scrape any tables from the URL.
+Macalester College,Failure,https://www.macalester.edu/financial-aid/about/merit-2/,0,Could not scrape any tables from the URL.
+Oklahoma State University Institute of Technology,Failure,https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/freshman-scholarships/,0,Could not scrape any tables from the URL.
+Quincy College,Failure,https://www.quincy.edu/admissions/financial-aid-and-tuition/scholarships/academic/,0,Could not scrape any tables from the URL.
+South Florida State College,Failure,https://www.usf.edu/admissions/freshmen/admissions-scholarships/,0,Could not scrape any tables from the URL.
+Bryan University,Failure,https://bryanu.edu/resources/financial-assistance,0,Could not scrape any tables from the URL.
+Union College,Partial Success,https://www.union.edu/financial-aid-family-financing/types-aid/scholarships-and-grants,0,"URL scraped, but no suitable tables found."
+Hamilton College,Failure,https://www.hamilton.edu/admission/finaid/scholarships,0,Could not scrape any tables from the URL.
+Miami University-Hamilton,Failure,https://miamioh.edu/admission-aid/costs-financial-aid/scholarships.html,0,Could not scrape any tables from the URL.
+Carleton College,Failure,https://www.carleton.edu/financial-aid/types-of-aid/grant-and-scholarships/,0,Could not scrape any tables from the URL.
+United Talmudical Seminary,Success,https://www.fastweb.com/directory/college/united-talmudical-seminary-scholarships,1,Saved 1 valid tables.
+Eckerd College,Success,https://www.eckerd.edu/admissions/financial-aid/types/,1,Saved 1 valid tables.
+Western Nevada College,Failure,https://wnc.edu/news/foundation-scholarship-application-2026-27.php,0,Could not scrape any tables from the URL.
+Connecticut College,Failure,https://www.conncoll.edu/admission/scholarships-and-grants/,0,Could not scrape any tables from the URL.
+University of Pittsburgh-Johnstown,Failure,https://www.johnstown.pitt.edu/financial-aid/student-financial-aid-and-scholarships,0,Could not scrape any tables from the URL.
+Gustavus Adolphus College,Failure,https://gustavus.edu/admission-aid/tuition-and-aid/scholarships,0,Could not scrape any tables from the URL.
+Amherst College,Failure,https://www.amherst.edu/offices/financialaid/frequently-asked-questions,0,Could not scrape any tables from the URL.
+Franklin and Marshall College,Failure,https://www.fandm.edu/scholarships/,0,Could not scrape any tables from the URL.
+Davidson College,Failure,https://www.davidson.edu/admission-and-financial-aid/financial-aid/types-financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Berks,Failure,https://berks.psu.edu/tuition-and-financial-aid/financial-aid/scholarships-and-awards,0,Could not scrape any tables from the URL.
+The College of Wooster,Failure,https://wooster.edu/admissions/afford/merit-scholarships/,0,Could not scrape any tables from the URL.
+Wofford College,Failure,https://www.wofford.edu/admission/scholarships/merit-based-scholarships,0,Could not scrape any tables from the URL.
+SUNY Morrisville,Failure,https://www.morrisville.edu/scholarships,0,Could not scrape any tables from the URL.
+Great Basin College,Failure,https://www.gbcnv.edu/financial/scholarships.html,0,Could not scrape any tables from the URL.
+University of Puerto Rico-Aguadilla,Failure,https://www.fastweb.com/directory/college/university-of-puerto-rico-aguadilla-scholarships,0,Could not scrape any tables from the URL.
+Bowdoin College,Failure,https://www.bowdoin.edu/student-aid/types-of-aid/grants.html,0,Could not scrape any tables from the URL.
+Occidental College,Failure,https://www.oxy.edu/financial-aid/how-financial-aid-works/grants-scholarships,0,Could not scrape any tables from the URL.
+Lackawanna College,Failure,https://www.lackawanna.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Southwest University at El Paso,Failure,https://www.southwestern.edu/scholarships-financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+DePauw University,Failure,https://www.depauw.edu/admission-aid/scholarships-aid/types-of-aid/scholarships/,0,Could not scrape any tables from the URL.
+Roanoke College,Failure,https://www.roanoke.edu/merit,0,Could not scrape any tables from the URL.
+SAE Institute of Technology-Nashville,Failure,https://www.sae.org/scholarships,0,Could not scrape any tables from the URL.
+SUNY College of Agriculture and Technology at Cobleskill,Failure,https://www.cobleskill.edu/admissions/financial-aid/scholarships.aspx,0,Could not scrape any tables from the URL.
+Wenatchee Valley College,Failure,https://www.wvc.edu/apply/pay/financial-aid/scholarships.html,0,Could not scrape any tables from the URL.
+Bates College,Failure,https://www.bates.edu/financial-services/types-of-aid/grants/,0,Could not scrape any tables from the URL.
+Kenyon College,Failure,https://www.kenyon.edu/admissions-aid/financial-aid-scholarships/scholarships-grants/,0,Could not scrape any tables from the URL.
+Wheaton College (Massachusetts),Failure,https://wheatoncollege.edu/admission/scholarships/merit-scholarships/,0,Could not scrape any tables from the URL.
+Lower Columbia College,Failure,https://lowercolumbia.edu/pay-for-college/scholarships/,0,Could not scrape any tables from the URL.
+College of Micronesia-FSM,Failure,https://www.comfsm.edu.fm/scholarship-opportunities/,0,Could not scrape any tables from the URL.
+Ringling College of Art and Design,Success,https://www.ringling.edu/admissions/financial-aid-and-tuition/financial-aid-opportunities/scholarships-and-grants/,1,Saved 1 valid tables.
+Grinnell College,Failure,https://www.grinnell.edu/admission/financial-aid/types-aid/scholarships,0,Could not scrape any tables from the URL.
+Ranken Technical College,Failure,https://ranken.edu/wp-content/uploads/2025/06/Guide-2025-2026.pdf,0,Could not scrape any tables from the URL.
+West Virginia University at Parkersburg,Success,https://www.wvu.edu/admissions/scholarships/first-time-freshmen/,1,Saved 1 valid tables.
+University of Minnesota-Crookston,Success,https://onestop.crk.umn.edu/finances/types-financial-aid/scholarships,2,Saved 2 valid tables.
+Kent State University at Trumbull,Failure,https://www.kent.edu/node/746656,0,Could not scrape any tables from the URL.
+Pomona College,Failure,https://www.pomona.edu/financial-aid/policies/endowed-scholarships,0,Could not scrape any tables from the URL.
+University of Hawaii Maui College,Success,https://manoa.hawaii.edu/fas/types-of-aid/scholarships/academic-merit-scholarships/,1,Saved 1 valid tables.
+Marymount Manhattan College,Failure,https://www.mmm.edu/admissions-and-aid/first-year-student-scholarships/,0,Could not scrape any tables from the URL.
+Swarthmore College,Failure,https://www.swarthmore.edu/financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+Galen College of Nursing-Tampa Bay,Partial Success,https://galencollege.edu/get-started/paying-for-college/scholarships,0,"URL scraped, but no suitable tables found."
+Chamberlain University-Georgia,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Feather River Community College District,Success,https://www.frc.edu/financialaid/foundation-scholarships,1,Saved 1 valid tables.
+Illinois Wesleyan University,Partial Success,https://www.iwu.edu/financial-aid/scholarships-grants.html,0,"URL scraped, but no suitable tables found."
+Virginia Military Institute,Partial Success,https://www.vmi.edu/about/offices-a-z/financial-aid/types-of-aid/merit-scholarships/,0,"URL scraped, but no suitable tables found."
+South Georgia State College,Success,https://www.sgsc.edu/afford/financial-aid-programs,5,Saved 5 valid tables.
+Kent State University at Geauga,Failure,https://www.kent.edu/node/746656,0,Could not scrape any tables from the URL.
+Renton Technical College,Failure,https://rtc.edu/paying-for-college/financial-aid/scholarships-resources.php,0,Could not scrape any tables from the URL.
+Galveston College,Failure,https://gc.edu/financial-aid/available-aid/scholarships/galveston-college-scholarships.php,0,Could not scrape any tables from the URL.
+Bellingham Technical College,Failure,https://www.btc.edu/AboutBTC/BTCFoundation/Scholarships.html,0,Could not scrape any tables from the URL.
+Whitman College,Failure,https://www.whitman.edu/admission-and-aid/financial-aid-and-costs/merit-talent-and-passion-scholarships,0,Could not scrape any tables from the URL.
+Berkeley College-New York,Success,https://berkeleycollege.edu/catalogs/undergraduate-2025-2026/financial-aid/grants-scholarships-fall-2022-and-later/index.html,6,Saved 6 valid tables.
+Dine College,Failure,https://www.dinecollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Kent State University at Tuscarawas,Failure,https://www.kent.edu/node/746656,0,Could not scrape any tables from the URL.
+South Seattle College,Failure,https://southseattle.edu/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Randolph-Macon College,Failure,https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/,0,Could not scrape any tables from the URL.
+Ursinus College,Failure,https://www.ursinus.edu/offices/student-financial-services/scholarship-opportunities/ursinus-offers-merit-scholarships/,0,Could not scrape any tables from the URL.
+Centralia College,Failure,https://www.centralia.edu/funding/scholarships.aspx,0,Could not scrape any tables from the URL.
+Berea College,Failure,https://www.berea.edu/academics/departments-programs/studies-of-religion-and-spirituality/rel-department-pages/scholarships-and-awards/,0,Could not scrape any tables from the URL.
+Luther College,Success,https://www.luther.edu/admission-aid/cost-financial-aid/scholarships,1,Saved 1 valid tables.
+Southwestern University,Failure,https://www.southwestern.edu/scholarships-financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Ohio Wesleyan University,Failure,https://www.owu.edu/admission/financial-aid-scholarships-tuition/first-year-students/merit-scholarships-awards/,0,Could not scrape any tables from the URL.
+Oglethorpe University,Failure,https://oglethorpe.edu/admission/financial-aid/types-of-aid/,0,Could not scrape any tables from the URL.
+Haverford College,Failure,https://www.haverford.edu/financial-aid/frequently-asked-questions,0,Could not scrape any tables from the URL.
+Dunwoody College of Technology,Failure,https://dunwoody.edu/admission-aid/scholarships/,0,Could not scrape any tables from the URL.
+College of the Ozarks,Failure,https://www.cofo.edu/Admissions/Cost-Financial-Aid/Scholarships,0,Could not scrape any tables from the URL.
+CBD College,Failure,https://www.cbd.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Reed College,Failure,https://www.reed.edu/admission-aid/costs-and-financial-aid/initiatives/reed-promise.html,0,Could not scrape any tables from the URL.
+Lawrence University,Partial Success,https://www.lawrence.edu/admissions-aid/aid-affordability/scholarships,0,"URL scraped, but no suitable tables found."
+College of Saint Benedict,Partial Success,https://www.csbsju.edu/admission/cost-aid-scholarships/scholarships/academic-achievement-scholarships/,0,"URL scraped, but no suitable tables found."
+Lake Superior State University,Success,https://www.lssu.edu/admissions/financial-aid/scholarships/incoming-student-scholarship/,9,Saved 9 valid tables.
+East Georgia State College,Partial Success,https://www.ega.edu/affordability/scholarships/index.html,0,"URL scraped, but no suitable tables found."
+Atlanta Metropolitan State College,Failure,https://www.atlm.edu/students/scholarships.aspx,0,Could not scrape any tables from the URL.
+Albion College,Success,https://www.albion.edu/offices/financial-aid/aid-scholarships/scholarships/,1,Saved 1 valid tables.
+Centre College,Success,https://www.centre.edu/admission-aid/scholarships-fellowships,3,Saved 3 valid tables.
+Bryant & Stratton College-Virginia Beach,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+University of Pittsburgh-Greensburg,Failure,https://www.greensburg.pitt.edu/admissions/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Chamberlain University-New Jersey,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Kent State University at Ashtabula,Failure,https://www.kent.edu/node/746656,0,Could not scrape any tables from the URL.
+Westmont College,Success,https://www.westmont.edu/scholarships,2,Saved 2 valid tables.
+Western Wyoming Community College,Success,https://www.westernwyoming.edu/admissions-and-aid/financial-aid/scholarships-and-grants.php,1,Saved 1 valid tables.
+Big Bend Community College,Partial Success,https://www.bigbend.edu/i-am/foundation-scholarships.html,0,"URL scraped, but no suitable tables found."
+The University of Montana-Western,Success,https://www.umt.edu/finaid//scholarships/new-freshman-scholarships/,2,Saved 2 valid tables.
+Guam Community College,Failure,https://www.guamcc.edu/scholarships,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Tempe,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Coe College,Failure,https://www.coe.edu/admission/first-year-students/scholarships-awards,0,Could not scrape any tables from the URL.
+Northern Marianas College,Failure,https://www.marianas.edu/scholarships,0,Could not scrape any tables from the URL.
+Bluefield State University,Failure,https://bluefieldstate.edu/scholarships/,0,Could not scrape any tables from the URL.
+Chipola College,Failure,https://www.chipola.edu/foundation/foundation-scholarships/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Brandywine,Failure,https://www.brandywine.psu.edu/tuition-financial-aid/scholarships,0,Could not scrape any tables from the URL.
+College of the Marshall Islands,Failure,https://www.cmi.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+University of Virginia's College at Wise,Failure,https://www.uvawise.edu/affordability/scholarships-aid,0,Could not scrape any tables from the URL.
+Allegheny College,Failure,https://allegheny.edu/cost-and-aid/scholarship-opportunities/,0,Could not scrape any tables from the URL.
+Pitzer College,Failure,https://www.pitzer.edu/offices/financial-aid/types-aid/grants,0,Could not scrape any tables from the URL.
+North Central State College,Failure,https://ncstatecollege.edu/admissions-and-aid/financial-aid/grants-and-scholarships/,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Las Vegas,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Glenville State University,Failure,https://www.glenville.edu/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Kalamazoo College,Success,https://admission.kzoo.edu/cost-value/merit-based-scholarships/,1,Saved 1 valid tables.
+Trinidad State College,Failure,https://trinidadstate.edu/scholarships/index.html,0,Could not scrape any tables from the URL.
+Miles College,Success,https://www.miles.edu/scholarships,1,Saved 1 valid tables.
+Western Technical College,Failure,https://www.westerntc.edu/scholarships,0,Could not scrape any tables from the URL.
+Dean College,Failure,https://www.dean.edu/cost-aid/scholarships/,0,Could not scrape any tables from the URL.
+Peninsula College,Failure,https://pencol.edu/scholarships,0,Could not scrape any tables from the URL.
+Bowling Green State University-Firelands,Partial Success,https://www.bgsu.edu/financial-aid/apply-for-aid/scholarships/new-freshmen.html,0,"URL scraped, but no suitable tables found."
+Arizona Christian University,Failure,https://www.arizonachristian.edu/financial-aid/types/scholarships/,0,Could not scrape any tables from the URL.
+Kent State University at Salem,Failure,https://www.kent.edu/node/746656,0,Could not scrape any tables from the URL.
+Johnson & Wales University-Charlotte,Success,https://www.jwu.edu/admissions/paying-for-college/scholarships-and-grants.html,1,Saved 1 valid tables.
+Dillard University,Success,https://www.dillard.edu/financial-aid/institutional-scholarships/,1,Saved 1 valid tables.
+Harris-Stowe State University,Success,https://go.hssu.edu/rspcontent_2021.html?wid=2&pid=15,7,Saved 7 valid tables.
+United States Coast Guard Academy,Failure,https://www.coastguardfoundation.org/news/2026-coast-guard-foundation-scholarship-season-opens-february-1,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Phoenix,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Central College,Success,https://central.edu/financial-aid/scholarships-awards/,1,Saved 1 valid tables.
+Grays Harbor College,Failure,https://www.ghc.edu/financialaid/grants/,0,Could not scrape any tables from the URL.
+Lycoming College,Failure,https://www.lycoming.edu/financial-aid/scholarship-opportunities.aspx,0,Could not scrape any tables from the URL.
+Spartanburg Methodist College,Failure,https://www.smcsc.edu/admissions/financial-aid/grants-and-scholarships/,0,Could not scrape any tables from the URL.
+Central Methodist University-College of Liberal Arts and Sciences,Success,https://centralmethodist.edu/admissions/financial-aid/scholarships.html,4,Saved 4 valid tables.
+Transylvania University,Success,https://www.transy.edu/financial-aid/scholarships-grants-aid/transylvanias-merit-scholarships/,2,Saved 2 valid tables.
+West Virginia University Institute of Technology,Success,https://www.wvu.edu/admissions/scholarships/first-time-freshmen/,1,Saved 1 valid tables.
+Knox College,Failure,https://www.knox.edu/admission/scholarships,0,Could not scrape any tables from the URL.
+Oklahoma Panhandle State University,Failure,https://opsu.edu/scholarships/,0,Could not scrape any tables from the URL.
+Wright State University-Lake Campus,Success,https://www.wright.edu/enrollment-services/financial-aid/first-year-scholarships,1,Saved 1 valid tables.
+Central Wyoming College,Failure,https://www.cwc.edu/scholarships/,0,Could not scrape any tables from the URL.
+University of Minnesota-Morris,Success,https://morris.umn.edu/costs-aid/scholarships,2,Saved 2 valid tables.
+University of Pittsburgh-Bradford,Failure,https://www.upb.pitt.edu/admissions-aid/financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Cascadia College,Success,https://www.cascadia.edu/student-resources/financial-aid/foundation.aspx,1,Saved 1 valid tables.
+Southern Virginia University,Failure,https://svu.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Trocaire College,Success,https://trocaire.edu/admissions-and-aid/tuition-financial-aid/scholarships-2/,2,Saved 2 valid tables.
+Bryant & Stratton College-Wauwatosa,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Potomac State College of West Virginia University,Failure,https://admissions.potomacstatecollege.edu/cost-and-aid/scholarships,0,Could not scrape any tables from the URL.
+Eastwick College-Ramsey,Failure,https://eastwick.edu/GE/FA_scholarship_foundation_eastwick.pdf,0,Could not scrape any tables from the URL.
+Illinois College,Failure,https://www.ic.edu/sfs/scholarships,0,Could not scrape any tables from the URL.
+Yeshivath Viznitz,Failure,https://www.fastweb.com/directory/college/yeshivath-viznitz-scholarships,0,Could not scrape any tables from the URL.
+Abilene Christian University-Undergraduate Online,Success,https://acu.edu/admissions-aid/scholarships/first-year/,1,Saved 1 valid tables.
+Harvey Mudd College,Failure,https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/,0,Could not scrape any tables from the URL.
+Mercy College of Health Sciences,Success,https://www.mchs.edu/admissions/fund-your-education/scholarships/,1,Saved 1 valid tables.
+Pennsylvania State University-Penn State Lehigh Valley,Failure,https://www.psu.edu/costs-aid/types-of-aid/scholarships,0,Could not scrape any tables from the URL.
+West Coast University-Miami,Failure,https://westcoastuniversity.edu/tuition-financial-aid/scholarships-grants/miami,0,Could not scrape any tables from the URL.
+Beloit College,Failure,https://www.beloit.edu/admission/tuition-aid/scholarships/,0,Could not scrape any tables from the URL.
+University of Science and Arts of Oklahoma,Success,https://usao.edu/financial-aid/financial-aid-options/freshmen-scholarships.html,1,Saved 1 valid tables.
+Washington College,Failure,https://www.washcoll.edu/admissions/admitted/available-scholarships.php,0,Could not scrape any tables from the URL.
+American Samoa Community College,Failure,https://www.amsamoa.edu/files/2024/09.September/ASCC%20CATALOG%202024-2026-1.pdf,0,Could not scrape any tables from the URL.
+Milwaukee Institute of Art & Design,Failure,https://www.miad.edu/admissions/scholarships,0,Could not scrape any tables from the URL.
+Haskell Indian Nations University,Failure,https://www.haskellfoundation.org/education,0,Could not scrape any tables from the URL.
+Hampden-Sydney College,Failure,https://www.hsc.edu/admission-and-financial-aid/financial-aid/types-of-aid/academic-and-leadership-awards,0,Could not scrape any tables from the URL.
+Miami University-Middletown,Failure,https://miamioh.edu/admission-aid/costs-financial-aid/scholarships.html,0,Could not scrape any tables from the URL.
+Northern New Mexico College,Failure,https://nnmc.edu/paying-for-college/scholarships/index.html,0,Could not scrape any tables from the URL.
+Glendale Career College,Failure,https://www.glendale.edu/students/student-services/transfer-center/financial-aid-scholarships,0,Could not scrape any tables from the URL.
+Wabash College,Success,https://www.wabash.edu/admissions/finances/sources,4,Saved 4 valid tables.
+Ohio State University-Marion Campus,Failure,https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships,0,Could not scrape any tables from the URL.
+Philander Smith University,Failure,https://www.philander.edu/admissions/types-of-aid/scholarships-and-grants/,0,Could not scrape any tables from the URL.
+Chamberlain University-Florida,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Plaza College,Failure,https://www.campusreel.org/scholarships/by-colleges/plaza-college,0,Could not scrape any tables from the URL.
+Northwest College,Success,https://nwc.edu/financialaid/scholarships/spring-start-trapper-scholarship.html,2,Saved 2 valid tables.
+The College of the Florida Keys,Failure,https://www.cfk.edu/discover/cfk-foundation/scholarship-info/,0,Could not scrape any tables from the URL.
+Lane College,Failure,https://www.lanecollege.edu/financial-aid-tuition/scholarships/lane-college-merit-based-scholarship-program,0,Could not scrape any tables from the URL.
+Pittsburgh Technical College,Failure,https://www.johnstown.pitt.edu/financial-aid/student-financial-aid-and-scholarships,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Scranton,Failure,https://scranton.psu.edu/financial-aid/scholarships-awards,0,Could not scrape any tables from the URL.
+Lees-McRae College,Failure,https://www.lmc.edu/admissions/financial-aid/types-of-aid.htm,0,Could not scrape any tables from the URL.
+North Florida College,Success,https://www.unf.edu/scholarships/programs.html,8,Saved 8 valid tables.
+Menlo College,Success,https://menlo.edu/affordability/financial-aid/,3,Saved 3 valid tables.
+Livingstone College,Failure,http://livingstone.edu/wp-content/uploads/2025/10/Fall-2026-Scholarship-Probation-Agreement-Contract.pdf,0,Could not scrape any tables from the URL.
+Kentucky Wesleyan College,Failure,https://kwc.edu/admissions/cost-and-aid/scholarships/,0,Could not scrape any tables from the URL.
+Laurus College,Failure,https://lauruscollege.edu/student-funding/,0,Could not scrape any tables from the URL.
+Kansas City Art Institute,Success,https://kcai.edu/admissions-aid/scholarships-grants/,1,Saved 1 valid tables.
+Ohio University-Chillicothe Campus,Failure,https://www.ohio.edu/chillicothe/admissions/financial-aid-scholarships,0,Could not scrape any tables from the URL.
+The Christ College of Nursing and Health Sciences,Failure,https://thechristcollege.edu/scholarships/,0,Could not scrape any tables from the URL.
+Stillman College,Failure,https://stillman.edu/financial-aid-office/scholarships/,0,Could not scrape any tables from the URL.
+The College of Westchester,Failure,https://www.cw.edu/undergraduate-scholarships/,0,Could not scrape any tables from the URL.
+University of the Ozarks,Success,https://ozarks.edu/admissions-aid/costs-and-aid/grants-and-scholarships/merit-scholarships/,1,Saved 1 valid tables.
+St. Augustine College,Failure,https://www.st-aug.edu/admissions/financial-aid/types-of-aid/incoming-freshmen-scholarships/,0,Could not scrape any tables from the URL.
+Chamberlain University-Arizona,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Spartan College of Aeronautics and Technology,Failure,https://www.spartan.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Jarvis Christian University,Success,https://alumni.jarvis.edu/academic-scholarships/,2,Saved 2 valid tables.
+Ohio State University-Mansfield Campus,Failure,https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships,0,Could not scrape any tables from the URL.
+Monmouth College,Failure,https://www.monmouthcollege.edu/offices/student-financial-services/types-of-aid/scholarships/,0,Could not scrape any tables from the URL.
+Helene Fuld College of Nursing,Failure,https://bigfuture.collegeboard.org/scholarships/helene-fuld-health-trust-scholarship,0,Could not scrape any tables from the URL.
+Cheyney University of Pennsylvania,Success,https://cheyney.edu/financialaid/scholarships/,1,Saved 1 valid tables.
+Ripon College,Failure,https://ripon.edu/admission/cost-and-financial-aid/scholarships-and-aid/,0,Could not scrape any tables from the URL.
+Emmanuel University,Success,https://eu.edu/admissions/aid/eu-aid/,2,Saved 2 valid tables.
+Laboure College of Healthcare,Failure,https://www.laboure.edu/tuition-financial-aid/scholarships,0,Could not scrape any tables from the URL.
+Zane State College,Failure,https://www.zanestate.edu/scholarships/,0,Could not scrape any tables from the URL.
+Hampshire College,Failure,https://www.hampshire.edu/offices/financial-services/financial-aid/types-aid/merit-scholarships,0,Could not scrape any tables from the URL.
+Alpena Community College,Failure,https://discover.alpenacc.edu/admissions/future_students/scholarships.php,0,Could not scrape any tables from the URL.
+Birmingham-Southern College,Success,https://www.fastweb.com/directory/college/birmingham-southern-college-scholarships,1,Saved 1 valid tables.
+Provo College,Failure,https://www.provocollege.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Drury University-College of Continuing Professional Studies,Success,https://www.drury.edu/financial-aid/scholarship-information/,2,Saved 2 valid tables.
+Brewton-Parker College,Failure,https://bpc.edu/admissions-aid/finances/financial-aid-2/scholarships-grants/,0,Could not scrape any tables from the URL.
+Davis & Elkins College,Failure,https://www.dewv.edu/admissions/afford/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Be'er Yaakov Talmudic Seminary,Failure,https://www.campusreel.org/scholarships/by-colleges/be-er-yaakov-talmudic-seminary,0,Could not scrape any tables from the URL.
+Northwest Indian College,Success,https://www.nwic.edu/student-life/northwest-indian-college-financial-aid-2/,2,Saved 2 valid tables.
+Chamberlain University-California,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Galen College of Nursing-Cincinnati,Partial Success,https://galencollege.edu/get-started/paying-for-college/scholarships,0,"URL scraped, but no suitable tables found."
+William Peace University,Failure,https://peace.edu/admissions/understand-costs-and-financial-aid/scholarships-and-awards/,0,Could not scrape any tables from the URL.
+Ohio University-Lancaster Campus,Failure,https://www.ohio.edu/lancaster/admissions/financial-aid-scholarships,0,Could not scrape any tables from the URL.
+Bryant & Stratton College-Buffalo,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Ohio State University-Lima Campus,Failure,https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships,0,Could not scrape any tables from the URL.
+Valley College-Martinsburg,Failure,https://valley.edu/scholarships/,0,Could not scrape any tables from the URL.
+Southeastern College-West Palm Beach,Success,https://seu.edu/admission/financial/scholarships/,5,Saved 5 valid tables.
+Texas College,Success,https://www.depts.ttu.edu/scholarships/incfreshman.php,1,Saved 1 valid tables.
+Chamberlain University-Michigan,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+University of Maine at Fort Kent,Success,https://www.umfk.edu/admissions/financialaid/scholarships-grants/,1,Saved 1 valid tables.
+Wiley University,Failure,https://www.wileyc.edu/office-of-financial-aid,0,Could not scrape any tables from the URL.
+Morgan Community College,Failure,https://www.morgancc.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Schuylkill,Failure,https://schuylkill.psu.edu/tuition-financial-aid/student-scholar-scholarships,0,Could not scrape any tables from the URL.
+Turtle Mountain Community College,Failure,https://www.tm.edu/scholarships/,0,Could not scrape any tables from the URL.
+Beckfield College-Florence,Failure,https://www.beckfield.edu/application-process/scholarships/,0,Could not scrape any tables from the URL.
+Ozark Christian College,Failure,https://www.campusreel.org/scholarships/by-colleges/ozark-christian-college,0,Could not scrape any tables from the URL.
+Paul Quinn College,Failure,https://paulquinn.edu/office-of-financial-aid/,0,Could not scrape any tables from the URL.
+Platt College-Los Angeles,Failure,https://plattcollege.edu/high-school-scholarship/,0,Could not scrape any tables from the URL.
+Westminster College,Failure,https://www.westminster.edu/admissions/financial-aid/scholarships.cfm,0,Could not scrape any tables from the URL.
+Florida College,Failure,https://www.usf.edu/admissions/freshmen/admissions-scholarships/,0,Could not scrape any tables from the URL.
+Bethany College,Success,https://www.bethanywv.edu/admissions-aid/financial-aid/grants-scholarships/,1,Saved 1 valid tables.
+Chamberlain University-Nevada,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Le Moyne-Owen College,Failure,https://www.lemoyne.edu/admission-financial-aid/cost-financial-aid/types-of-aid/awards-scholarships/,0,Could not scrape any tables from the URL.
+University of Wisconsin-Milwaukee Flex,Failure,https://uwm.edu/finances/scholarships/,0,Could not scrape any tables from the URL.
+University of Minnesota-Rochester,Success,https://r.umn.edu/admissions/scholarships-overview,1,Saved 1 valid tables.
+Chamberlain University-Virginia,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Tucson,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Lyon College,Failure,https://www.lyon.edu/scholarships-aid-programs,0,Could not scrape any tables from the URL.
+Cleveland Institute of Art,Failure,https://www.cia.edu/financial-aid/types-of-aid/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Mont Alto,Failure,https://montalto.psu.edu/tuition-and-aid/scholarships,0,Could not scrape any tables from the URL.
+Atenas University,Failure,https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-type/academic-scholarships-and-merit-scholarships,0,Could not scrape any tables from the URL.
+Las Vegas College,Partial Success,https://www.unlv.edu/finaid/scholarships,0,"URL scraped, but no suitable tables found."
+Colegio Universitario de San Juan,Failure,https://www.facebook.com/SanJuanUnified/posts/take-a-step-closer-to-your-future-scholarship-applications-are-now-open-the-san-/1323254813165458/,0,Could not scrape any tables from the URL.
+Thomas Aquinas College,Failure,https://www.aquinas.edu/cost-aid/scholarships/first-year-scholarships.html,0,Could not scrape any tables from the URL.
+Villa Maria College,Failure,https://www.villa.edu/admissions/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Holy Cross College,Failure,https://www.holycross.edu/admissions-aid/tuition-financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+Southern California Institute of Technology,Failure,https://www.finaid.caltech.edu/typesofaid/grants,0,Could not scrape any tables from the URL.
+Southern Technical College,Failure,https://blog.collegevine.com/which-colleges-award-automatic-scholarships-based-on-sat-scores,0,Could not scrape any tables from the URL.
+United Tribes Technical College,Failure,https://uttc.edu/tuition-and-aid/financial-aid-office/scholarships/,0,Could not scrape any tables from the URL.
+Bay Mills Community College,Failure,https://bmcc.edu/admissions/financial-aid/scholarships.html,0,Could not scrape any tables from the URL.
+Neumont College of Computer Science,Failure,https://neumont.smartcatalogiq.com/en/2025-2026/2025-2026/scholarships-and-grants,0,Could not scrape any tables from the URL.
+Alice Lloyd College,Failure,https://alc.edu/admissions/financial-aid/scholarships-awards/,0,Could not scrape any tables from the URL.
+East-West University,Success,https://www.ewubd.edu/notice-details/merit-scholarship-spring-semester-2026-undergraduate-programs,1,Saved 1 valid tables.
+Bon Secours Memorial College of Nursing,Failure,https://www.bsmcon.edu/scholarships,0,Could not scrape any tables from the URL.
+Ohio University-Zanesville Campus,Failure,https://www.ohio.edu/financial-aid/types/scholarships,0,Could not scrape any tables from the URL.
+Baptist Health System School of Health Professions,Failure,https://www.bshp.edu/academics/financial-aid/scholarship-resources,0,Could not scrape any tables from the URL.
+Bryant & Stratton College-Parma,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Eureka College,Failure,https://www.eureka.edu/admissions-and-financial-aid/scholarships-and-awards/2026-27-scholarships-and-awards,0,Could not scrape any tables from the URL.
+Chamberlain University-Louisiana,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Talmudical Seminary of Bobov,Failure,https://www.fastweb.com/directory/college/talmudical-seminary-of-bobov-scholarships,0,Could not scrape any tables from the URL.
+Sumner College,Failure,https://www.sumnercollege.edu/scholarship-form/,0,Could not scrape any tables from the URL.
+Urshan University,Failure,https://urshan.edu/scholarships,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Hazleton,Failure,https://www.psu.edu/costs-aid/types-of-aid/scholarships,0,Could not scrape any tables from the URL.
+Bethel College-North Newton,Success,https://www.bethelks.edu/admissions/affordability/,2,Saved 2 valid tables.
+Beacon College,Failure,https://www.beaconcollege.edu/admissions-aid/scholarships/,0,Could not scrape any tables from the URL.
+Escuela de Artes Plasticas y Diseno de Puerto Rico,Failure,https://www.nprdpinc.org/scholarship,0,Could not scrape any tables from the URL.
+Brookline College-Albuquerque,Failure,https://www.campusreel.org/scholarships/by-colleges/brookline-college-albuquerque,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Beaver,Failure,https://beaver.psu.edu/tuition-financial-aid/financialaid/scholarships,0,Could not scrape any tables from the URL.
+University of New Hampshire at Manchester,Success,https://www.unh.edu/financialaid/types-aid/scholarships,2,Saved 2 valid tables.
+Angeles College,Failure,https://www.angelescollege.edu/admissionsandaid/scholarships/,0,Could not scrape any tables from the URL.
+College of Biblical Studies-Houston,Failure,https://cbshouston.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Cornish College of the Arts,Failure,https://www.cornish.edu/tuition-financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Lionel University,Failure,https://www.lionel.edu/scholarships,0,Could not scrape any tables from the URL.
+Central Baptist College,Failure,https://www.cbc.edu/scholarships,0,Could not scrape any tables from the URL.
+Eastern International College-Jersey City,Failure,https://eicollege.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Platt College-Ontario,Failure,https://plattcollege.edu/high-school-scholarship/,0,Could not scrape any tables from the URL.
+Manor College,Failure,https://manor.edu/admissions/financial-aid-scholarships/,0,Could not scrape any tables from the URL.
+Ohio University-Southern Campus,Success,https://www.ohio.edu/southern/admissions/financial-aid-scholarships,1,Saved 1 valid tables.
+Yeshiva of Machzikai Hadas,Success,https://www.fastweb.com/directory/college/yeshiva-of-machzikai-hadas-scholarships,1,Saved 1 valid tables.
+Huertas College,Failure,https://www.facebook.com/groups/7255891764494844/posts/8737034276380578/,0,Could not scrape any tables from the URL.
+Northland College,Failure,https://www.northlandcollege.edu/about/offices/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Good Samaritan College of Nursing and Health Science,Failure,https://gscollege.edu/tuition-aid/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Bryant & Stratton College-Syracuse North,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+EDP University of Puerto Rico-Manati,Failure,https://www.fastweb.com/directory/college/edp-university-of-puerto-rico-manati-scholarships,0,Could not scrape any tables from the URL.
+Rust College,Success,https://rustcollege.edu/financial-aid/,6,Saved 6 valid tables.
+Pennsylvania State University-Penn State New Kensington,Failure,https://newkensington.psu.edu/tuition-finanical-aid/scholarships/nk,0,Could not scrape any tables from the URL.
+Mitchell College,Failure,https://mitchell.edu/cost-and-aid/,0,Could not scrape any tables from the URL.
+Morris College,Failure,https://www.morris.edu/financial-aid/financial-aid-at-a-glance-guide/scholarships,0,Could not scrape any tables from the URL.
+Platt College-Riverside,Failure,https://plattcollege.edu/high-school-scholarship/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Fayette- Eberly,Failure,https://fayette.psu.edu/tuition-and-financial-aid/financial-aid/scholarships/psf-scholarships,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Fort Lauderdale,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Benjamin Franklin Cummings Institute of Technology,Failure,https://franklincummings.edu/admissions-and-aid/making-college-affordable/merit-scholarships/,0,Could not scrape any tables from the URL.
+Carolinas College of Health Sciences,Failure,https://atriumhealth.org/documents/cchs/cchs-prospective-students-financial-aid-information.pdf,0,Could not scrape any tables from the URL.
+Platt College-Anaheim,Failure,https://plattcollege.edu/high-school-scholarship/,0,Could not scrape any tables from the URL.
+College Unbound,Partial Success,https://www.collegebound.org/college-bound-scholarships.html,0,"URL scraped, but no suitable tables found."
+Arizona College of Nursing-Dallas,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Simmons College of Kentucky,Partial Success,https://www.simmons.edu/undergraduate/admission-and-financial-aid/tuition-financial-aid/types-financial-aid/scholarships,0,"URL scraped, but no suitable tables found."
+Herzing University-Akron,Failure,https://www.herzing.edu/tuition-financial-aid/types-financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+Herzing University-Brookfield,Failure,https://www.herzing.edu/tuition-financial-aid/types-financial-aid/scholarships-grants,0,Could not scrape any tables from the URL.
+Arkansas Baptist College,Success,https://www.arkansasbaptist.edu/financial-aid/apply-for-financial-aid/,1,Saved 1 valid tables.
+Franklin W Olin College of Engineering,Failure,https://www.olin.edu/admission-financial-aid-afford/understanding-your-aid,0,Could not scrape any tables from the URL.
+Patrick Henry College,Success,https://www.phc.edu/academic-scholarships,1,Saved 1 valid tables.
+Yeshiva Kollel Tifereth Elizer,Failure,https://www.yeshivakolleltiferethelizer.com/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Greater Allegheny,Failure,https://greaterallegheny.psu.edu/tuition-financial-aid/scholarships/ga,0,Could not scrape any tables from the URL.
+Dewey University-Carolina,Failure,https://columns.wlu.edu/disciplines/the-college/,0,Could not scrape any tables from the URL.
+Wells College,Partial Success,https://scholarships.indiana.edu/future-scholars/iu-scholarships/index.html,0,"URL scraped, but no suitable tables found."
+Talmudical Seminary Oholei Torah,Failure,https://www.campusreel.org/scholarships/by-colleges/talmudical-seminary-oholei-torah,0,Could not scrape any tables from the URL.
+Valor Christian College,Failure,https://www.valorcollege.edu/scholarships,0,Could not scrape any tables from the URL.
+Warner Pacific University,Failure,https://www.warnerpacific.edu/admissions-aid/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Donnelly College,Failure,https://www.donnelly.edu/admissions/aid/scholarships,0,Could not scrape any tables from the URL.
+Remington College-Shreveport Campus,Failure,https://remingtoncollege.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Blackburn College,Failure,https://blackburn.edu/admissions-aid/financial-aid/,0,Could not scrape any tables from the URL.
+Morris Brown College,Failure,https://morrisbrown.edu/academic-scholarships/,0,Could not scrape any tables from the URL.
+Paine College,Failure,https://www.paine.edu/web/admission/financial-aid/scholarships-honors-aawards,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Wilkes-Barre,Failure,https://wilkesbarre.psu.edu/financial-aid/campus-scholarships,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Tampa,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Mid-America College of Funeral Service,Success,https://mid-america.edu/funeral-service-program-admissions/scholarships/,1,Saved 1 valid tables.
+Principia College,Success,https://www.principiacollege.edu/admissions/scholarships,4,Saved 4 valid tables.
+Chamberlain University-Ohio,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Nazarene Bible College,Failure,https://nbc.edu/news/32102/iboe-scholarships-opportunity-for-2026-2027//,0,Could not scrape any tables from the URL.
+Rasmussen University-Kansas,Failure,https://guides.rasmussen.edu/borrowing,0,Could not scrape any tables from the URL.
+Chamberlain University-Missouri,Failure,https://www.chamberlain.edu/admissions/financial-aid-scholarships/scholarships,0,Could not scrape any tables from the URL.
+Riverside College of Health Careers,Failure,https://www.riverside.edu/en/admissions-and-aid/financial-aid-and-scholarship,0,Could not scrape any tables from the URL.
+Gwinnett Institute,Failure,https://www.ggc.edu/admission-aid/financial-aid/scholarships-and-grants,0,Could not scrape any tables from the URL.
+Arizona College of Nursing-Salt Lake City,Failure,https://arizonacollege.edu/admissions/scholarships/,0,Could not scrape any tables from the URL.
+Bryant & Stratton College-Greece,Failure,https://www.bryantstratton.edu/financial-aid/scholarships/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State DuBois,Failure,https://dubois.psu.edu/financialaid/apply/scholarships,0,Could not scrape any tables from the URL.
+Pennsylvania College of Art and Design,Failure,https://pcad.edu/admissions/portfolio-merit-scholarship-competition/,0,Could not scrape any tables from the URL.
+University of Puerto Rico-Utuado,Failure,https://scholarshipsandgrants.us/list/others/puerto-rico/,0,Could not scrape any tables from the URL.
+Hesston College,Failure,https://hesston.edu/admissions/scholarships-and-aid/scholarships/,0,Could not scrape any tables from the URL.
+Ohio University-Eastern Campus,Failure,https://www.ohio.edu/eastern/admissions/financial-aid-scholarships,0,Could not scrape any tables from the URL.
+Gnomon,Failure,https://www.gnomon.edu/news-and-events/news/gnomon-introduces-new-scholarships-and-financial-awards-for-2026/,0,Could not scrape any tables from the URL.
+John Paul the Great Catholic University,Failure,https://jpcatholic.edu/admission/cost/index.php,0,Could not scrape any tables from the URL.
+Brookline College-Tempe,Failure,https://www.brooklinecollege.edu/resources/learning-resource-center/quick-links/scholarship-search-websites/,0,Could not scrape any tables from the URL.
+Andrew College,Failure,https://www.andrewcollege.edu/scholarships/,0,Could not scrape any tables from the URL.
+Nossi College of Art and Design,Failure,https://nossi.edu/application-form-financial-aid-scholarship/,0,Could not scrape any tables from the URL.
+City College-Hollywood,Failure,https://www.scholarships.com/colleges/city-college-hollywood-hollywood-fl,0,Could not scrape any tables from the URL.
+Bryn Athyn College of the New Church,Success,https://brynathyn.edu/financial-aid/scholarships-grants.html,1,Saved 1 valid tables.
+Mount Sinai Phillips School of Nursing,Failure,https://www.mountsinai.org/files/MSHealth/Assets/MSBI/PSONScholarshipApplication-AY-2122.pdf,0,Could not scrape any tables from the URL.
+Dallas Christian College,Success,https://www.dallas.edu/financial-services/scholarships/,2,Saved 2 valid tables.
+EDP University of Puerto Rico-Humacao,Failure,https://www.scholarships.com/colleges/edp-university-of-puerto-rico-humacao,0,Could not scrape any tables from the URL.
+Arlington Baptist University,Failure,https://abu.edu/scholarships,0,Could not scrape any tables from the URL.
+Los Angeles College of Music,Failure,https://lacm.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Antigua College International,Failure,https://antigua.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Cottey College,Failure,https://cottey.edu/financial-aid/grants-and-scholarships/,0,Could not scrape any tables from the URL.
+Montserrat College of Art,Failure,https://www.montserrat.edu/admissions/student-financial-services/to-apply-for-financial-aid/,0,Could not scrape any tables from the URL.
+Pennsylvania State University-Penn State Shenango,Failure,https://www.psu.edu/costs-aid/types-of-aid/scholarships,0,Could not scrape any tables from the URL.
+Dewey University-Manati,Failure,https://www.collegeraptor.com/colleges/academics/Dewey-University-Manati-PR--469416,0,Could not scrape any tables from the URL.
+Jamestown Business College,Failure,https://www.jbc.edu/financial-aid/,0,Could not scrape any tables from the URL.
+Blackfeet Community College,Failure,https://bfcc.edu/files/galleries/BFCC_Scholarship_Matrix_2025-26.pdf,0,Could not scrape any tables from the URL.
+Concorde Career College-Kansas City,Failure,https://www.concorde.edu/admissions/scholarships,0,Could not scrape any tables from the URL.
+Bard College at Simon's Rock,Success,https://www.bard.edu/sfs/simons-rock/financial-aid/,1,Saved 1 valid tables.
+Rabbinical College of Ohr Shimon Yisroel,Failure,https://www.campusreel.org/scholarships/by-colleges/rabbinical-college-ohr-yisroel,0,Could not scrape any tables from the URL.
+Aultman College of Nursing and Health Sciences,Success,https://www.aultmancollege.edu/scholarships,2,Saved 2 valid tables.

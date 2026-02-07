@@ -1,0 +1,5 @@
+0,1,2
+Chairman,GPA > 3.75 || ACT/SAT > 27/1280,"$26,000"
+Trustee,GPA > 3.50 || ACT/SAT > 26/1240,"$23,000"
+President,GPA > 3.25 || ACT/SAT > 25/1210,"$20,000"
+Dean,GPA > 3.00 || ACT/SAT > 24/1180,"$17,000"
